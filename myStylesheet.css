@@ -1,0 +1,85 @@
+/* */
+
+html, body{
+    margin:10;
+    padding:10;
+    background-color: chartreuse;
+    
+    background:url("D:/Downloads/City-Night-Landscape-Image-HD.jpg");
+    background-attachment: fixed;
+
+   
+}
+
+a{ text-decoration: none;
+-webkit-transition-property: color;
+-webkit-transition-duration: 500ms;
+-webkit-transition-timing-function: ease-out;
+color:rgb(255, 0, 128);
+}
+a:hover{
+    color:rgb(89, 228, 9);
+}
+
+
+h1{
+    text-align:center;
+    font-size: 36px;
+    font-family: "Courier New";
+}
+
+
+/*#paragraph2{
+    background-color: rgb(12, 196, 5);
+    float: left"
+}*/
+
+
+
+
+#titlenav{background:url("D:/Downloads/e1fee2d0530fed0ddd0429b29f921872.jpg");
+    width: 800;
+    align-content: center;
+    align-self: center;
+    
+}
+
+div.para1{
+    background-color: crimson;
+    /*float: left";*/
+    opacity: 0.3;
+    width: 800;
+}
+
+div.para2{
+    background-color: rgb(20, 140, 220);
+    opacity: 0.3;
+    width: 800;
+
+    float: center";
+
+
+    
+}
+
+div.para3{
+    background-color: rgb(133, 220, 20);
+    opacity: 0.3;
+    width: 800;
+
+
+    float: right";
+
+}
+
+
+p{
+    text-align:center;
+    font-size: 36px;
+    font-family: "Courier New";
+    -moz-text-decoration-color: chartreuse;
+    /*flood-color: blue;
+
+}
+
+

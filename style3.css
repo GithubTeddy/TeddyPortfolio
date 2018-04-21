@@ -1,0 +1,51 @@
+/* */
+
+html, body{
+    margin:10;
+    padding:10;
+    background-color: chartreuse;
+}
+
+a{ text-decoration: none;}
+
+
+h1{
+    text-align:center;
+    font-size: 36px;
+    font-family: "Courier New";
+}
+
+
+/*#paragraph2{
+    background-color: rgb(12, 196, 5);
+    float: left"
+}*/
+
+div.para1{
+    background-color: crimson;
+    float: left"
+}
+
+div.para2{
+    background-color: rgb(20, 140, 220);
+    float: center";
+    
+}
+
+div.para3{
+    background-color: rgb(133, 220, 20);
+    float: right";
+
+}
+
+
+/*p{
+    text-align:center;
+    font-size: 36px;
+    font-family: "Courier New";
+    -moz-text-decoration-color: chartreuse;
+    /*flood-color: blue;
+
+}
+*/
+
